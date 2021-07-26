@@ -1,12 +1,23 @@
+/*
 
+Template 2085 Neuron
+
+http://www.tooplate.com/view/2085-neuron
+
+*/
 
 body {
-    background: #ffffff;
+		background: #ffffff;
     font-family: 'Lora', serif;
     font-style: normal;
-    font-weight: 300;
+		font-weight: 300;
     overflow-x: hidden;
 }
+
+
+/*---------------------------------------
+    Typorgraphy              
+-----------------------------------------*/
 
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Merriweather', serif;
@@ -53,6 +64,10 @@ p {
   border-color: transparent;
 }
 
+
+/*---------------------------------------
+    General               
+-----------------------------------------*/
 
 html{
   -webkit-font-smoothing: antialiased;
@@ -117,7 +132,9 @@ a:hover, a:active, a:focus {
 }
 
 
-
+/*---------------------------------------
+    Preloader section              
+-----------------------------------------*/
 
 .preloader {
   position: fixed;
